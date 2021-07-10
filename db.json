@@ -1,18 +1,17 @@
 {
   "tokens": [  
-    {
-      "id": 0,
-      "description": "Cohort Pie Chart",
-      "external_url": "http://ethereum.org",
-      "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
-      "name": "Pie Chart 02/21 - 08/21 UNCC Bootcamp Cohort"
+    "id": 0,
+    "description": "Cohort Pie Chart",
+    "external_url": "http://ethereum.org",
+    "image": "https://github.com/Eldorajo/cohort_nft/blob/main/1.png",
+    "name": "Pie Chart 02/21 - 08/21 UNCC Bootcamp Cohort"
     },
     {
-      "id": 1,
-      "description": "Cohort Python",
-      "external_url": "http://ethereum.org",
-      "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
-      "name": "Python 02/21 - 08/21 UNCC Bootcamp Cohort"
+    "id": 1,
+    "description": "Cohort Python",
+    "external_url": ""http://ethereum.org",
+    "image": "https://github.com/Eldorajo/cohort_nft/blob/main/2.png",
+    "name": "Python 02/21 - 08/21 UNCC Bootcamp Cohort"
     },
     {
       "id": 2,
